@@ -1,3 +1,5 @@
+### You may need to disable your antivirus to download the file!
+
 Made by kubalinh3  
 Make sure to read the README.txt!
 Tutorial: http://nitrogen.xf.cz/tutorial/
