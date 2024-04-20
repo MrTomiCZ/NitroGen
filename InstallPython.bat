@@ -1,0 +1,3 @@
+@echo off
+title Installing Python 3.11 ...
+winget install --id=9NRWMJP3717K

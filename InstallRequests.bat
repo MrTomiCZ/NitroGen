@@ -1,0 +1,3 @@
+@echo off
+title Installing PyModule Requests...
+pip install requests
